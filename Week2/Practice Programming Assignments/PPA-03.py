@@ -1,3 +1,4 @@
+
 T = int(input())
 
 if T > 0:
@@ -13,4 +14,5 @@ if T > 0:
         print("INVALID")
 else:
     print("INVALID")
+    
         
