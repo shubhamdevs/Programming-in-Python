@@ -1,3 +1,4 @@
+
 x = float(input())
 y = float(input())
 
@@ -18,3 +19,4 @@ elif(x > 0 and y < 0):
     print("fourth")
 else:
     print("not accepted")
+    
